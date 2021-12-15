@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ViciousProxy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mr Proxy
+- 👀 I’m interested in ... Cyber Programming
+- 🌱 I’m currently learning ... Artificial Intelligence and robotics
+- 💞️ I’m looking to collaborate on ... building an AI
+- 📫 How to reach me ... viciousproxy@gmail.com
 
 <!---
 ViciousProxy/ViciousProxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
